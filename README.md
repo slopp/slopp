@@ -1,10 +1,9 @@
-### Hi there 👋
+### Hello!
 
-My public website is https://loppsided.blog. 
-
-- 🔭 I’m currently working on Dagster
-- 🌱 I’m always learning Python, Kubernetes, JavaScript, and SQL.
-- 💬 Ask me about underbiking, sales engineering, R, or join me on a soap box about the modern data stack.
-- 📫 How to reach me: https://twitter.com/lopp_sean
+- I'm based out of Denver, CO where I like to mountain bike and keep up with my growing family.
+- I’m currently working on Dagster, a data orchestrator 
+- I enjoy building tools for developers, especially those related to data and CICD.
+- I am also interested in simulation, counter-factual analysis, and third wave coffee.
+- Best to reach me on LinkedIn.
 
 
